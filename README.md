@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ana Mora.
+- 👀 I’m interested in all topics related to technology , math and programming.
+- 🌱 I’m currently learning R and python.
